@@ -66,7 +66,7 @@
 - Upload your creds JSON file to the `session` folder
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 📥 Get MK-BOT
+### 📥 Get RAJAB_SMD
 
 > **Download the bot file**
 <p align="left">  
@@ -74,7 +74,7 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### DEPLOY MK-BOT
+### DEPLOY RAJAB_SMD
 
 > **Deploy to panel**
 <p align="left">  
@@ -98,7 +98,7 @@
 
 ## 💡 Credits & Contributors
 
-> **MALVIN XD Owner**  
+> **RAJAB_SMD Owner**  
 - [Malvin King](https://github.com/XdKing2) - **Creator & Maintainer**  
 - Contributions include **bot plugins, command files, and script optimizations.**
 
